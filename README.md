@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Django Projects / Interactive Web Apps**
 
-- 💬 Ask me about **React, Django Rest Framework, and Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
