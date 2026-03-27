@@ -34,4 +34,4 @@
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toya%20Bahadur%20Chaudhary-blue?logo=linkedin)](https://linkedin.com/in/toya-bahadur-chaudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toya%20Bahadur%20Chaudhary-blue?logo=linkedin)](linkedin.com/in/toya-chaudhary-42617435a)
